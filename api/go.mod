@@ -8,7 +8,6 @@ require (
 	github.com/go-openapi/spec v0.19.4
 	github.com/golangci/golangci-lint v1.19.1
 	github.com/googleapis/gnostic v0.3.0 // indirect
-	github.com/monopole/mdrip v1.0.0
 	github.com/pkg/errors v0.8.1
 	golang.org/x/tools v0.0.0-20190912215617-3720d1ec3678
 	gopkg.in/yaml.v2 v2.2.4
